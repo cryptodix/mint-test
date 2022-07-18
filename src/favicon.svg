@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="200px" height="200px" viewBox="0 0 200 200" style="enable-background:new 0 0 200 200;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#A9C3AC;}
+	.st1{fill:#73C8D4;}
+	.st2{opacity:0.2;fill:#FFFFFF;}
+	.st3{opacity:0.1;fill:#FFFFFF;}
+	.st4{opacity:0.5;fill:#FFFFFF;}
+	.st5{fill:#FFFFFF;}
+	.st6{fill:#EAEAEA;}
+	.st7{fill:#EB004B;}
+</style>
+<path class="st0" d="M200,200c0,0-133.3,0-200,0L0,0l200,0L200,200z"/>
+<path class="st1" d="M136,80V32h-8v-8H72v8h-8v48h-8v16h8v104h72V96h8V80H136z"/>
+<rect x="120" y="64" class="st2" width="8" height="8"/>
+<rect x="112" y="56" class="st3" width="8" height="8"/>
+<rect x="96.1" y="112" width="8" height="8"/>
+<g>
+	<rect x="168" y="80" class="st4" width="8" height="24"/>
+	<rect x="168" y="64" class="st4" width="8" height="8"/>
+	<rect x="168" y="112" class="st4" width="8" height="8"/>
+</g>
+<g>
+	<rect x="64" y="184" class="st5" width="24" height="16"/>
+	<rect x="112" y="184" class="st5" width="24" height="16"/>
+</g>
+<g>
+	<rect x="64" y="176" class="st6" width="32" height="8"/>
+	<rect x="104" y="176" class="st6" width="32" height="8"/>
+</g>
+<polygon points="104,184 104,176 96,176 96,184 88,184 88,200 112,200 112,184 "/>
+<g>
+	<path d="M160,136v-8h-16v-24v-8h4h4V80h-4h-4v-8V56v-8h8v-8h-8v-8h-8v-8h-4h-4v-8h-16h-8v8h-8v-8h-8h-8h-8v8h-8v8h-8v8h-8v8h8v8v16
+		v8h-4h-4v16h4h4v8v96c1.6,0,4.4,0,8,0v-96h32v-8h8v8h32v24h-24v8H96v8h16v8h24v48c3.6,0,6.4,0,8,0v-48h16v-8h8v-8H160z M64,72V56
+		h72v16H64z"/>
+	<rect x="40" y="32" width="8" height="8"/>
+	<rect x="128" y="8" width="8" height="8"/>
+	<rect x="152" y="48" width="8" height="8"/>
+	<rect x="144" y="24" width="8" height="8"/>
+</g>
+<rect x="112" y="136" class="st5" width="40" height="8"/>
+<rect x="152" y="136" class="st7" width="8" height="8"/>
+</svg>
